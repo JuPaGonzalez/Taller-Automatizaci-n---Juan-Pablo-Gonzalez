@@ -1,0 +1,23 @@
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+
+# Variables de entorno secretas (no incluir .env)
+.env
+robot_causaciones/.env
+
+# Bytecode y cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# IDEs y SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Carpetas de salida locales del robot (la entrega califica en evidencias/)
+robot_causaciones/salida/

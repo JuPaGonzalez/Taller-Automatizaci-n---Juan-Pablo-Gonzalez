@@ -1,0 +1,11 @@
+2026-10-10 11:55:43 - INFO - Iniciando ejecución del Robot de Causaciones SICOF
+2026-10-10 11:55:43 - INFO - Se encontraron 6 facturas para procesar en por_radicar.xlsx
+2026-10-10 11:55:45 - INFO - Factura FE-20871 (NIT 900123456) procesada: CAUSADA - CXP-2026-000001
+2026-10-10 11:55:47 - INFO - Factura TR-5530 (NIT 800234567) procesada: CAUSADA - CXP-2026-000002
+2026-10-10 11:55:48 - WARNING - Reintento 1/3 para factura ST-3307 (NIT 830456789): Servicio temporalmente no disponible (código SICOF-503)
+2026-10-10 11:55:51 - INFO - Factura ST-3307 (NIT 830456789) procesada: CAUSADA - CXP-2026-000003
+2026-10-10 11:55:52 - INFO - Factura MI-0077 (NIT 900999001) procesada: RECHAZADA - El NIT 900999001 no está registrado como proveedor
+2026-10-10 11:55:52 - INFO - Factura PS-1188 (NIT 860567890) procesada: RECHAZADA - La fecha de factura no puede ser posterior a la fecha actual
+2026-10-10 11:55:53 - INFO - Factura FE-20871 (NIT 901345678) procesada: CAUSADA - CXP-2026-000004
+2026-10-10 11:55:54 - INFO - Resultados guardados exitosamente en: C:\Users\juanp\Desktop\Uni\Plataformas\Taller de mierda\plataformas_2026_2\taller_automatizacion\robot_causaciones\salida\resultados.xlsx
+2026-10-10 11:55:54 - INFO - Lote finalizado. Resumen: CAUSADA=4, YA_CAUSADA=0, RECHAZADA=2, FALLA_SISTEMA=0
